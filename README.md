@@ -1,2 +1,3 @@
-# creds
-A simple amazon credentials-like INI credential profile system 
+# cred
+A simple amazon credentials-like profile system.
+
